@@ -15,8 +15,8 @@ Previously these were two separate extensions. This release merges them into one
 
 ## 📸 Screenshots
 
-![Composer preview](https://meow.fourvo.id/screen2.jpg)
-![Comment rendering](https://meow.fourvo.id/screen.jpg)
+![Composer preview](https://meow.fourvo.id/Screenshot%20(2).png)
+![Comment rendering](https://meow.fourvo.id/Screenshot%20(1).png)
 
 ---
 

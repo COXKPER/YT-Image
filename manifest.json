@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Image Comments",
+  "version": "2.0.0",
+  "description": "Post and render images in YouTube comments using PUA Unicode tags (\uE001url\uE002). Live preview in composer, auto-converts legacy [image=] syntax. Supports h:// hs:// schemes and domain aliases.",
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": [],
+  "host_permissions": ["*://www.youtube.com/*"]
+}

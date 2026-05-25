@@ -140,4 +140,4 @@ __ytimg.normalize(u) // test URL normalization
 
 ## 📄 License
 
-MIT — see `LICENSE`.
+APACHE — see `LICENSE`.
